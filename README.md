@@ -47,7 +47,6 @@ IR担当者や経営層が、以下のリスクを即座に試算できる **Pyt
 👉 **[docs/university_management_report.pdf](docs/university_management_report.pdf)**
 
 ### 🐍 [財務損失シミュレーション (Python Notebook)](./university_financial_loss_simulation.ipynb)
-*(※近日コード公開予定)*
 
 * 志願者減少率（η）が授業料収入に与える影響を計算
 * 感度分析（Scenario Analysis）をそのまま実行できる構造
